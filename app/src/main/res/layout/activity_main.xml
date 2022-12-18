@@ -26,6 +26,7 @@
         app:layout_constraintTop_toTopOf="parent" />
 
     <TextView
+        android:id="@+id/tv_suggestion"
         android:layout_width="0dp"
         android:layout_height="wrap_content"
         android:layout_marginStart="16dp"
@@ -48,7 +49,7 @@
         app:layout_constraintBottom_toTopOf="@id/btn_next"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@id/btn_later"
+        app:layout_constraintTop_toBottomOf="@id/tv_suggestion"
         tools:itemCount="12"
         tools:listitem="@layout/item_tag" />
 
