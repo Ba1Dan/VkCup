@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VkCup</string>
+
+    <string name="tags_continue">Продолжить</string>
+    <string name="tags_later">Позже</string>
+    <string name="tags_suggest">Отметьте то, что вам интересно, чтобы настроить Дзен</string>
+</resources>
